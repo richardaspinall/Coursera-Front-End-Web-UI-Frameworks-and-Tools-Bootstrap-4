@@ -3,6 +3,7 @@ $lt-gray: #ddd;
 $background-dark: #512da8;
 $background-light: #9575cd;
 $background-pale: #d1c4e9;
+$color-floral-white: #fffaf0;
 
 // Height variables
 $carousel-item-height: 300px;
@@ -56,6 +57,23 @@ body {
   border-right: 1px solid $lt-gray;
   border-bottom: 1px solid $lt-gray;
   padding: 10px;
+}
+
+.modal-header {
+  background: $background-dark;
+}
+
+.modal-title {
+  color: $color-floral-white;
+}
+.modal-body {
+  background: $background-pale;
+}
+
+.modal-header {
+  .close {
+    color: $color-floral-white;
+  }
 }
 
 // Nesting selectors

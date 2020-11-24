@@ -45,6 +45,22 @@ body {
   padding: 10px;
 }
 
+.modal-header {
+  background: #512da8;
+}
+
+.modal-title {
+  color: #fffaf0;
+}
+
+.modal-body {
+  background: #d1c4e9;
+}
+
+.modal-header .close {
+  color: #fffaf0;
+}
+
 .carousel {
   background: #512da8;
 }
