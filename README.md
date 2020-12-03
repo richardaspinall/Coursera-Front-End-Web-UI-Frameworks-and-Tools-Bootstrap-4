@@ -7,22 +7,44 @@ While this was a good quick refresher course on Bootstrap, the main reason to do
 
 ## Results
 ### Soft skills
-* I learned how to structure my learning and create a framework for future learning
-* Grading other work. While the course and assingments were very linear, it gave
+* I learned how to structure my learning and also test a framework for future learning
+* Grading other's work – while the course and assignment was very linear and simple, it did remind me that giving feedback and teaching is a super important part of learning.
 
 ### Hard skills
 * HTML
 * CSS & Bootstrap
 * SASS & LESS
-* JQuery
+* JS & JQuery
 
 <img width="1792" alt="example" src="https://user-images.githubusercontent.com/15721687/100963824-5f3cc600-357b-11eb-8c4c-19869cb247c4.png">
 
 ## Steps
+* The course was broken down into week long modules. 
 
-## Requirements
+### Week 1:
+* Introduction to Bootstrap, setting up Git and Node to be used in the project
+* Responsive Design
 
-## Usage
+### Week 2:
+* Adding navigation and breadcrumbs
+* User input: forms and buttons 
+* Diplaying content, Images and Media 
+* Alerting Users with alerts and progress bars
+
+### Week 3
+* Adding Javascript
+* Tabs, accordions, modals, tooltips and popovers
+* Carousels for dynamic content
+
+### Week 4
+* Bootstrap JS using JQuery and JS
+* CSS preprocessors Less and Sass
+
+### Forward 
+There are a couple more exercises for "Building and Deployment" which might be good to implement for a running version of this project. 
 
 ## Resources
+
+* https://www.coursera.org/learn/bootstrap-4
+* https://getbootstrap.com/
 
