@@ -3,9 +3,9 @@ Coursera course on front-end web UI frameworks and tool  with Bootstrap 4
 
 > Dec 2020 [Certificate](https://www.coursera.org/account/accomplishments/verify/J2JMAVBNPADC)
 
-Check it out here: https://pickled-crocus-balloon.glitch.me/
-
 While this was a good quick refresher course on Bootstrap, the main reason to do this was to have an anchor and use it as an example template for future personal projects. Not only in terms of documentation but goal setting. I set a goal of finishing this in the estimated time (4 weeks), I didn't rush ahead just to get it done. I allocated time after work and chipped away at the material.
+
+Check it out here: https://pickled-crocus-balloon.glitch.me/
 
 ## Results
 ### Soft skills
